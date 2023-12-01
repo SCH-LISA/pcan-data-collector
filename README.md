@@ -19,4 +19,4 @@ At result, you will get "Tesla Normal Dataset 2023-09-01-0.txt" in "Dataset" fol
 Munkhdelgerekh Batzorig (Soon Ph. D, Soon chunhyang)
 
 # License
-Soon will be registered to SCH-LISA
+Soon will be registered to SCH-LISA# ARK_CAN
